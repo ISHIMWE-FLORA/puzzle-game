@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # puzzlegame
-
+ISHIMWE Flora
 ## Project setup
 ```
 npm install
